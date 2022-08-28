@@ -7,10 +7,22 @@
     background-image: url(/multimedia/chaleco.jpg);
     background-size: cover; 
     color: #333;
+    margin: 0;
 }
-.nosotros{
+h2{
     background-color: #F5F0BB ;
     text-align: center;
     color: #333;
     padding: 10px;
+}
+.ad{
+    background-image: url(/multimedia/tejido.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+.ai{
+    text-align: center;
+    background-color: #F5F0BB;
+    color: #333;
 }
