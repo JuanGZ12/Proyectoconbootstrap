@@ -1,0 +1,16 @@
+.navbar-brand{
+    color: #F5F0BB;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.jumbotron{
+    background-image: url(/multimedia/chaleco.jpg);
+    background-size: cover; 
+    color: #333;
+}
+.nosotros{
+    background-color: #F5F0BB ;
+    text-align: center;
+    color: #333;
+    padding: 10px;
+}
