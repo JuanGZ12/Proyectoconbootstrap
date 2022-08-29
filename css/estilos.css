@@ -51,3 +51,11 @@ h2{
 .btn-primary:hover{
     background-color: gray;
 }
+.productos{
+    height: 800px;
+    background-color: #F5F0BB;
+}
+.card-body{
+    background-color: #F5F0BB;
+    margin: 0;  
+}
