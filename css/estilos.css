@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&family=Oswald&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&family=Oswald:wght@700&display=swap');
+
 .navbar-brand{
     color: #F5F0BB;
     font-family: Arial, Helvetica, sans-serif;
@@ -8,6 +14,7 @@
     background-size: cover; 
     color: #333;
     margin: 0;
+    font-family: 'Montserrat Alternates', sans-serif;
 }
 h2{
     background-color: #F5F0BB ;
@@ -15,6 +22,7 @@ h2{
     color: #333;
     padding: 10px;
     margin: 0;  
+    font-family: 'Montserrat Alternates', sans-serif;
 }
 .ad{
     background-image: url(/multimedia/tejido.jpg);
@@ -23,9 +31,13 @@ h2{
     height: 400px;
 }
 .ai{
+    padding: 20px;
     text-align: center;
     background-color: #F5F0BB;
     color: #333;
+    font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Oswald', sans-serif;
+
 }
 .inicia{
     background-color: #F5F0BB;
@@ -54,8 +66,23 @@ h2{
 .productos{
     height: 800px;
     background-color: #F5F0BB;
+    margin: 10px;
 }
 .card-body{
     background-color: #F5F0BB;
     margin: 0;  
+}
+footer{
+    background-color: #F5F0BB;
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.cs{
+    height: 600px;
+    background-color: #F5F0BB;
+    font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Oswald', sans-serif;
+text-align: center;
+font-size: 50px;
+
 }
