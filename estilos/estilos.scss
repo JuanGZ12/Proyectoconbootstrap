@@ -4,22 +4,26 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&family=Oswald:wght@700&display=swap');
 
+
+$color1: #F5F0BB;
+$color2: #333;
+
 .navbar-brand{
-    color: #F5F0BB;
+    color: $color2;
     font-family: Arial, Helvetica, sans-serif;
 
 }
 .jumbotron{
     background-image: url(/multimedia/chaleco.jpg);
     background-size: cover; 
-    color: #333;
+    color: $color2;
     margin: 0;
     font-family: 'Montserrat Alternates', sans-serif;
 }
 h2{
-    background-color: #F5F0BB ;
+    background-color: $color2 ;
     text-align: center;
-    color: #333;
+    color: $color2;
     padding: 10px;
     margin: 0;  
     font-family: 'Montserrat Alternates', sans-serif;
@@ -33,14 +37,14 @@ h2{
 .ai{
     padding: 20px;
     text-align: center;
-    background-color: #F5F0BB;
-    color: #333;
+    background-color: $color2;
+    color: $color2;
     font-family: 'Montserrat Alternates', sans-serif;
 font-family: 'Oswald', sans-serif;
 
 }
 .inicia{
-    background-color: #F5F0BB;
+    background-color: $color2;
     text-align: center;
     margin: 0;
 }
@@ -51,38 +55,39 @@ font-family: 'Oswald', sans-serif;
     height: 250px;
 }
 .ii{
-    background-color: #F5F0BB;
+    background-color: $color2;
     text-align: center;
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
 }
 .btn-primary{
-    background-color: #333;
-    color: #F5F0BB;
+    background-color: $color2;
+    color: $color2;
 }
 .btn-primary:hover{
     background-color: gray;
 }
 .productos{
     height: 800px;
-    background-color: #F5F0BB;
+    background-color: $color2;
     margin: 10px;
 }
 .card-body{
-    background-color: #F5F0BB;
+    background-color: $color2;
     margin: 0;  
 }
 footer{
-    background-color: #F5F0BB;
+    background-color: $color2;
     text-align: center;
     font-family: 'Montserrat Alternates', sans-serif;
 }
 .cs{
     height: 600px;
-    background-color: #F5F0BB;
+    background-color: $color2;
     font-family: 'Montserrat Alternates', sans-serif;
 font-family: 'Oswald', sans-serif;
 text-align: center;
 font-size: 50px;
-
 }
+
+

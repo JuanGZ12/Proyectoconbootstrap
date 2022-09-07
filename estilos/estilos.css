@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&family=Oswald&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@1,300&family=Oswald:wght@700&display=swap");
+.navbar-brand {
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron {
+  background-image: url(/multimedia/chaleco.jpg);
+  background-size: cover;
+  color: #333;
+  margin: 0;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+h2 {
+  background-color: #333;
+  text-align: center;
+  color: #333;
+  padding: 10px;
+  margin: 0;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.ad {
+  background-image: url(/multimedia/tejido.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+}
+
+.ai {
+  padding: 20px;
+  text-align: center;
+  background-color: #333;
+  color: #333;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-family: "Oswald", sans-serif;
+}
+
+.inicia {
+  background-color: #333;
+  text-align: center;
+  margin: 0;
+}
+
+.id {
+  background-image: url(/multimedia/cardigan.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+
+.ii {
+  background-color: #333;
+  text-align: center;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.btn-primary {
+  background-color: #333;
+  color: #333;
+}
+
+.btn-primary:hover {
+  background-color: gray;
+}
+
+.productos {
+  height: 800px;
+  background-color: #333;
+  margin: 10px;
+}
+
+.card-body {
+  background-color: #333;
+  margin: 0;
+}
+
+footer {
+  background-color: #333;
+  text-align: center;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.cs {
+  height: 600px;
+  background-color: #333;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  font-size: 50px;
+}/*# sourceMappingURL=estilos.css.map */
